@@ -1,0 +1,12 @@
+E:\Semester 3\pemrog\FP\tiket\tiket\bin\Debug\tiket.exe.config
+E:\Semester 3\pemrog\FP\tiket\tiket\bin\Debug\tiket.exe
+E:\Semester 3\pemrog\FP\tiket\tiket\bin\Debug\tiket.pdb
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.csproj.AssemblyReference.cache
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.csproj.SuggestedBindingRedirects.cache
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.Booknow.resources
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.Login.resources
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.csproj.GenerateResource.cache
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.csproj.CoreCompileInputs.cache
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.exe
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.pdb
+E:\Semester 3\pemrog\FP\tiket\tiket\obj\Debug\tiket.Properties.Resources.resources
